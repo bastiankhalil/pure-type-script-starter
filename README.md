@@ -1,0 +1,1 @@
+# pure-type-script-starter
