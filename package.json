@@ -1,0 +1,19 @@
+{
+  "name": "Typescript Starter ",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "s": "webpack-dev-server --config webpack.config.js",
+    "b": "webpack --conf webpack.config.js"
+  },
+  "devDependencies": {
+    "webpack": "4.8.1",
+    "webpack-cli": "2.1.3",
+    "webpack-dev-server": "3.1.4"
+  },
+  "dependencies": {
+    "ts-loader": "4.3.0",
+    "typescript": "2.8.3"
+  }
+}
