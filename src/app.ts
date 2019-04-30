@@ -1,6 +1,6 @@
 export class start {
     constructor() {
-        console.log('this is type scirt class')
+        console.log('****this is type script class****');
     }
 }
 
